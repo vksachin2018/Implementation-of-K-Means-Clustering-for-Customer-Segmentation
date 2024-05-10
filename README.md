@@ -9,11 +9,17 @@ To write a program to implement the K Means Clustering for Customer Segmentation
 
 ## Algorithm
 STEP 1 START
+
 STEP 2:Import pandas and matplot libraries.
+
 STEP 3:import Kmeans algorithm to solve customer segmentation.
+
 STEP 4:Using the for loop cluster the given data
+
 STEP 5: Predict the output and plot data graphs.
+
 STEP 6: Display the outputs
+
 STEP 7 STOP
 ## Program:
 ```
